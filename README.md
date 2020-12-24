@@ -1,5 +1,6 @@
 Current Projects
-  - [SmokeSe.sh](https://smokese.sh) (iOS, Android, Web)
+  - [SmokeSe.sh](https://smokese.sh) (iOS (soon), Android (soon), Web)
+  - Glass-R-Us - Bong Tycoon Game (iOS (soon), Android (soon), Web (maybe), Steam (soon))
   
 Contact
   - oly@hitler.rocks (Email)
