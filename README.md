@@ -1,6 +1,7 @@
 Current Projects
-  - [SmokeSe.sh](https://smokese.sh) (iOS (soon), Android (soon), Web)
-  - Glass-R-Us - Bong Tycoon Game (iOS (soon), Android (soon), Web (maybe), Steam (soon))
+  - [SmokeSe.sh](https://smokese.sh) - Video streaming platform for weed. Somebody buy me a mac so i can do iOS things.
+  - [Kyxq](https://kyxq.org)         - The discord bot.
+  - [Suara](https://suara.fm)        - Music streaming platform.
   
 Contact
   - oly@hitler.rocks (Email)
