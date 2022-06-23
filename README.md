@@ -3,6 +3,6 @@ I enjoy coding and playing VALORANT and osu!. My main focus for projects is to m
   - [SmokeSe.sh](https://smokese.sh) - Social media platform for weed. Somebody buy me a mac so i can do iOS things.
   
 # Contact Me
-  - oly@hitler.rocks (Email)
+  - olykirr@gmail.com (Email)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=landenstephenss&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
