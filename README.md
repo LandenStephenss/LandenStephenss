@@ -1,7 +1,5 @@
 # Hey! I'm Olykir.
-I enjoy coding and playing VALORANT and osu!. My main focus for projects is to make something that works efficently and still looks nice. Although I really like to do backend related things like APIs. If you're interested in some of my work, go check out projects!
-  - [SmokeSe.sh](https://smokese.sh) - Social media platform for weed. Somebody buy me a mac so i can do iOS things.
-  
+  Somebody remind me to update this in three weeks, thanks.
 # Contact Me
   - olykirr@gmail.com (Email)
 
